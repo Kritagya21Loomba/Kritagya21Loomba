@@ -3,10 +3,10 @@
 <h2>Crafting intelligent systems, playful modelling projects, and developer‑first tools.</h2>
 
 🚀 What I’ve Built
-Gintel - Developer career intelligence for the modern engineer
-Flowcast - Melbourne Traffic Intelligence Platform
-F1Chaos - Simulation‑driven modelling for race strategy & unpredictability
-AlgoStudio - A playground for algorithm design & optimisation
+- Gintel - Developer career intelligence for the modern engineer
+- Flowcast - Melbourne Traffic Intelligence Platform
+- F1Chaos - Simulation‑driven modelling for race strategy & unpredictability
+- AlgoStudio - A playground for algorithm design & optimisation
 
 🧠 Interests & Focus Areas
 - Machine learning & modelling pipelines
