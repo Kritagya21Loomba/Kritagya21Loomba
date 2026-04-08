@@ -1,6 +1,6 @@
-🧩 Kritagya Loomba
-Data Scientist • Software Engineer • Multidimensional Builder
-Crafting intelligent systems, playful modelling projects, and developer‑first tools.
+<h1>🧩 Kritagya Loomba</h1>
+<h2>Data Scientist • Software Engineer • Multidimensional Builder</h2>
+<h2>Crafting intelligent systems, playful modelling projects, and developer‑first tools.</h2>
 
 🚀 What I’ve Built
 Gintel - Developer career intelligence for the modern engineer
