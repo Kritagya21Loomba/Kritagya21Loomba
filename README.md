@@ -22,11 +22,6 @@
 - ML/DS: NumPy, Pandas, Scikit‑learn, PyTorch (learning), Jupyter
 - Tools: Git, Docker, Sanity CMS, Vercel, Figma
 
-📌 Signature Projects
-🔹 Gintel: A subscription‑ready developer intelligence engine that analyses GitHub profiles and produces actionable insights for career growth.
-🔹 Flowcast: An end‑to‑end traffic analytics system built on three years of Victorian SCATS data.
-🔹 F1Chaos: A modelling project exploring chaos, probability, and race strategy through simulation.
-
 🌐 Connect
 Portfolio (coming soon)
 LinkedIn: https://www.linkedin.com/in/kritagyaloomba/
